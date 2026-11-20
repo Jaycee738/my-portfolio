@@ -14,10 +14,10 @@ import './App.css'
       name:     'Feyisayo Joshua',                    // Your name
       title:    'Frontend Developer & UI Designer', // Your job title
       bio:      'I build beautiful, responsive web experiences.',
-      email:    'joshua@example.com',
-      phone:    '+234 800 000 0000',
+      email:    'joshfeyi180@gmail.com',
+      phone:    '+234 9055397551',
       location: 'Lagos, Nigeria',
-      github:   'github.com/amara',
+      github:   'github.com/Jaycee738',
       linkedin: 'linkedin.com/in/amara',
     }
     
